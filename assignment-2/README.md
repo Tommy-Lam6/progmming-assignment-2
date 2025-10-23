@@ -1,6 +1,6 @@
 # Assignment 2 - 聚餐分帳擴展與檔案處理
 
-學生名稱：
+學生名稱：Lam Sau Chuen(Tommy)
 
 ## 使用說明
 
