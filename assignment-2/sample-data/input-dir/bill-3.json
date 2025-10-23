@@ -1,0 +1,24 @@
+{
+  "date": "2024-03-23",
+  "location": "咖啡廳",
+  "tipPercentage": 15,
+  "items": [
+    {
+      "name": "拿鐵咖啡",
+      "price": 45,
+      "isShared": false,
+      "person": "Alice"
+    },
+    {
+      "name": "美式咖啡",
+      "price": 35,
+      "isShared": false,
+      "person": "Bob"
+    },
+    {
+      "name": "蛋糕",
+      "price": 60,
+      "isShared": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2024-03-21",
+  "location": "開心小館",
+  "tipPercentage": 10,
+  "items": [
+    {
+      "name": "牛排",
+      "price": 199,
+      "isShared": true
+    },
+    {
+      "name": "橙汁",
+      "price": 10,
+      "isShared": false,
+      "person": "Alice"
+    },
+    {
+      "name": "薯條",
+      "price": 12,
+      "isShared": true
+    },
+    {
+      "name": "熱檸檬水",
+      "price": 8,
+      "isShared": false,
+      "person": "Bob"
+    },
+    {
+      "name": "熱檸檬水",
+      "price": 8,
+      "isShared": false,
+      "person": "Charlie"
+    }
+  ]
+}

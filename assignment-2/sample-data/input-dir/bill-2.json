@@ -1,0 +1,13 @@
+{
+  "date": "2024-03-22",
+  "location": "美味餐廳",
+  "tipPercentage": 10,
+  "items": [
+    {
+      "name": "義大利麵",
+      "price": 120,
+      "isShared": false,
+      "person": "Charlie"
+    }
+  ]
+}

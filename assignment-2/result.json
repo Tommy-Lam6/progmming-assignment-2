@@ -1,0 +1,21 @@
+{
+  "date": "2024年3月21日",
+  "location": "開心小館",
+  "subTotal": 237,
+  "tip": 23.7,
+  "totalAmount": 260.7,
+  "items": [
+    {
+      "name": "Alice",
+      "amount": 88.3
+    },
+    {
+      "name": "Bob",
+      "amount": 86.2
+    },
+    {
+      "name": "Charlie",
+      "amount": 86.2
+    }
+  ]
+}
