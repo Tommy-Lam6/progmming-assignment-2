@@ -1,0 +1,17 @@
+{
+  "date": "2024年3月23日",
+  "location": "咖啡廳",
+  "subTotal": 140,
+  "tip": 21,
+  "totalAmount": 161,
+  "items": [
+    {
+      "name": "Alice",
+      "amount": 86.2
+    },
+    {
+      "name": "Bob",
+      "amount": 74.8
+    }
+  ]
+}
